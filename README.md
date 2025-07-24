@@ -1,10 +1,6 @@
-Welcome to your new dbt project!
+### DBT-Core
 
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
+This is a project that aims to explore the use of DBT-Core with PostgreSQL in a local machine.
 
 
 ### Resources:
